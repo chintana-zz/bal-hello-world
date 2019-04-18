@@ -1,0 +1,7 @@
+callbackUrl = "http://example.com"
+clientName = "jenkins"
+owner = "admin"
+grantType = "password refresh_token"
+saasApp = "true"
+username = "admin"
+password = "admin"
